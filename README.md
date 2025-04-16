@@ -10,6 +10,4 @@ A simple Rock Paper Scissors game made using HTML, CSS, and JavaScript.
 - Result display with colored message feedback
 - Fun, responsive UI
 
-![UI Preview](ui.jpg)
-
 ---
